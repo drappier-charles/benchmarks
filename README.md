@@ -2,8 +2,6 @@
 
 ![Staggered TTI](./staggered_tti.svg)
 
-![Burst TTI](./burst_tti.svg)
-
 [![Benchmarks](https://github.com/computesdk/benchmarks/actions/workflows/benchmarks.yml/badge.svg)](https://github.com/computesdk/benchmarks/actions/workflows/benchmarks.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 

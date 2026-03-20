@@ -1,8 +1,16 @@
+### [Sequential TTI](#sequential-tti)
+
 ![Sequential TTI](./sequential_tti.svg)
+
+### [Staggered TTI](#staggered-tti)
 
 ![Staggered TTI](./staggered_tti.svg)
 
+### [Burst TTI](#burst-tti)
+
 ![Burst TTI](./burst_tti.svg)
+
+### [Pricing Comparison](#pricing-comparison)
 
 ![Pricing Comparison](./pricing.svg)
 
